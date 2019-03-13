@@ -1,2 +1,2 @@
 # gtu-python-practicals
-all praticals on python programming for gtu students
+All praticals on python programming for gtu students
